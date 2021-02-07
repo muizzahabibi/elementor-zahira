@@ -44,7 +44,7 @@
                 ]
             }
         },
-        "categories": "[\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
+        "categories": "[\"Tes page\",\"404 page\",\"about\",\"archive\",\"call to action\",\"clients\",\"contact\",\"faq\",\"features\",\"footer\",\"header\",\"hero\",\"portfolio\",\"pricing\",\"product archive\",\"services\",\"single page\",\"single post\",\"single product\",\"stats\",\"subscribe\",\"team\",\"testimonials\"]",
         "templates": [
             // {
             //     "id": "2",
@@ -63,7 +63,7 @@
             // },
             {
                 "id": "2",
-                "title": "Hero 2",
+                "title": "About 2",
                 "thumbnail": "https://library.elementor.com/wp-content/uploads/2018/03/heroo_black_4.png",
                 "tmpl_created": "1520443695",
                 "author": "Elementor",
