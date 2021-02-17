@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "057 Furniture__6",
+    "type": "page",
+    "content": [{"id":"79b27bb3","settings":{"gap":"narrow","padding":{"unit":"px","top":"0","right":"0","bottom":"64","left":"0","isLinked":false},"padding_tablet":{"unit":"em","top":"0","right":"2","bottom":"3","left":"2","isLinked":false},"background_background":"classic","background_color":"#f2f2f2","padding_mobile":{"unit":"em","top":"0","right":"2","bottom":"3","left":"2","isLinked":false}},"elements":[{"id":"3ca2be8e","settings":{"_column_size":100,"_inline_size":null,"margin_mobile":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_mobile":100},"elements":[{"id":"3010fe5b","settings":{"wp_gallery":[{"id":7833,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/galery-1.png"}],"thumbnail_size":"full","gallery_columns":"1","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"isInner":false,"widgetType":"image-gallery","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

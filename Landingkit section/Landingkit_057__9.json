@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "057 Furniture__9",
+    "type": "page",
+    "content": [{"id":"3a6ff39b","settings":{"padding_mobile":{"unit":"em","top":"0","right":"2","bottom":"0","left":"2","isLinked":false}},"elements":[{"id":"5dd58795","settings":{"_column_size":100,"content_position":"center"},"elements":[{"id":"3760686a","settings":{"color":"rgba(0,0,0,0.12)","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text":"Divider"},"elements":[],"isInner":false,"widgetType":"divider","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "018 Jasa Hosting__6",
+    "type": "page",
+    "content": [{"id":"562db691","settings":{"background_background":"gradient","background_color":"#ff5c12","background_color_b":"#ffa439","background_gradient_angle":{"unit":"deg","size":140},"background_overlay_background":"classic","background_overlay_image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/wave.png","id":2765},"background_overlay_position":"center center","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_opacity":{"unit":"px","size":0.3},"gap":"wide","padding":{"unit":"px","top":"64","right":"0","bottom":"64","left":"0","isLinked":false}},"elements":[{"id":"63c782f8","settings":{"_column_size":100,"animation":"fadeInUp"},"elements":[{"id":"9563599","settings":{"title":"Hosting.in Cocok Untuk Anda yang ingin <br>\nMeningkatkan keamanan & Kecepatan Website Anda","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"typography_font_size_mobile":{"unit":"px","size":30},"typography_font_weight":"800","typography_line_height":{"unit":"em","size":1.5},"header_size":"p","_padding":{"unit":"em","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"em","top":"3","right":"1","bottom":"3","left":"1","isLinked":false}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

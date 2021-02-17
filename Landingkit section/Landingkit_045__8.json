@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "045 Jasa Website JV__8",
+    "type": "page",
+    "content": [{"id":"7809171a","settings":{"padding":{"unit":"em","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"em","top":"3","right":"1","bottom":"3","left":"1","isLinked":false},"padding_mobile":{"unit":"em","top":"2","right":"0","bottom":"2","left":"0","isLinked":false},"layout":"full_width"},"elements":[{"id":"afd1ace","settings":{"_column_size":100,"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2ab22014","settings":{"image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/masonry-img2.png","id":4821},"image_size":"full","fb_value":"0"},"elements":[],"isInner":false,"widgetType":"image","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

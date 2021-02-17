@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "024 Fitness__2",
+    "type": "page",
+    "content": [{"id":"478acf3","settings":{"background_background":"classic","background_color":"#f3f3f3","padding":{"unit":"px","top":"64","right":"0","bottom":"32","left":"0","isLinked":false},"padding_mobile":{"unit":"em","top":"3","right":"2","bottom":"1","left":"2","isLinked":false},"gap":"wide","content_position":"middle","html_tag":"section"},"elements":[{"id":"3c32a136","settings":{"_column_size":100,"animation":"fadeInUp"},"elements":[{"id":"2e27cd1f","settings":{"carousel":[{"id":2571,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/Header-Img-Company-1.png"},{"id":2572,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/Header-Img-Company-2.png"},{"id":2573,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/Header-Img-Company-3.png"},{"id":2574,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/Header-Img-Company-4.png"},{"id":2575,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/Header-Img-Company-5.png"},{"id":2935,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/GrowThack-5-1.png"}],"slides_to_show":"5","slides_to_show_tablet":"4","slides_to_scroll":"1","navigation":"none","autoplay_speed":3000,"slides_to_show_mobile":"2","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":40}},"elements":[],"isInner":false,"widgetType":"image-carousel","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

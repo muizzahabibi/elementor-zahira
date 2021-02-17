@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "066 Parenting__3",
+    "type": "page",
+    "content": [{"id":"25737ab8","settings":{"padding_mobile":{"unit":"em","top":"0","right":"2","bottom":"0","left":"2","isLinked":false}},"elements":[{"id":"35fe278b","settings":{"_column_size":100,"content_position":"center","background_background":"classic"},"elements":[{"id":"3cc4b9d1","settings":{"color":"rgba(0,0,0,0.1)","text":"Divider"},"elements":[],"isInner":false,"widgetType":"divider","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

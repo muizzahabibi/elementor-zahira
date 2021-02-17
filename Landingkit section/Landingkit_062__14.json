@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "062 Sewa Alat Camping__14",
+    "type": "page",
+    "content": [{"id":"3e94038c","settings":{"content_width":{"unit":"px","size":750},"gap":"wide","content_position":"middle","html_tag":"section","background_background":"classic","background_color":"#161616","shape_divider_bottom":"wave-brush","shape_divider_bottom_color":"#161616","shape_divider_bottom_height":{"unit":"px","size":25},"padding":{"unit":"px","top":"64","right":"0","bottom":"64","left":"0","isLinked":false}},"elements":[{"id":"79a2625","settings":{"_column_size":100},"elements":[{"id":"697873f2","settings":{"image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/guarantee-yellow.png","id":9023},"title_text":"7 Hari Garansi Uang Kembali","description_text":"In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae","title_size":"div","text_align":"center","content_vertical_alignment":"middle","title_bottom_space":{"unit":"px","size":15},"title_color":"#ffffff","title_typography_typography":"custom","title_typography_font_family":"Nunito Sans","title_typography_font_size":{"unit":"px","size":36},"title_typography_font_weight":"bold","title_typography_text_transform":"capitalize","title_typography_font_style":"normal","title_typography_text_decoration":"none","title_typography_line_height":{"unit":"em","size":1.5},"image_space":{"unit":"px","size":31},"description_color":"rgba(255,255,255,0.55)"},"elements":[],"isInner":false,"widgetType":"image-box","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

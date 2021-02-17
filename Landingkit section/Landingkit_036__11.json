@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "036 Restoran__11",
+    "type": "page",
+    "content": [{"id":"50b5c74e","settings":{"stretch_section":"section-stretched","layout":"full_width"},"elements":[{"id":"55b97fad","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6ce5fcb2","settings":{"image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/Galery-1.png","id":6478},"image_size":"full","fb_value":"0"},"elements":[],"isInner":false,"widgetType":"image","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

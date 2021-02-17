@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "028 Tas__11",
+    "type": "page",
+    "content": [{"id":"7505dd15","settings":{"background_background":"classic","background_color":"#f8f8f8","background_image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/Section-028-BG-Countdown.png","id":4689},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"64","right":"0","bottom":"64","left":"0","isLinked":false},"gap":"wide","content_position":"middle","html_tag":"section","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"46414286","settings":{"_column_size":100,"content_position":"center"},"elements":[{"id":"cb682eb","settings":{"intro":"Penjualan Akan Segera ditutup dan akan hangus dalam:","label_days":"Hari","label_hours":"Jam","label_minutes":"Menit","label_seconds":"Detik","intro_color":"#383838","intro_typography_typography":"custom","intro_typography_font_family":"Frank Ruhl Libre","intro_typography_font_size":{"unit":"px","size":24},"intro_typography_font_weight":"bold","intro_typography_text_transform":"capitalize","intro_typography_font_style":"normal","year":"2020"},"elements":[],"isInner":false,"widgetType":"countdown_simple","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

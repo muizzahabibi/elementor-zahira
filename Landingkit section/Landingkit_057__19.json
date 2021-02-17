@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "057 Furniture__19",
+    "type": "page",
+    "content": [{"id":"27bdd9d8","settings":{"margin":{"unit":"%","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"5","right":"0","bottom":"5","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"45f7569a","settings":{"_column_size":100,"content_position":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1edef759","settings":{"wp_gallery":[{"id":7869,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/13.png"},{"id":7870,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/12.png"},{"id":7871,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/14.png"},{"id":7873,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/15.png"},{"id":7874,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/11.png"}],"thumbnail_size":"full","gallery_columns":"5","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"image_spacing":"custom","image_spacing_custom":{"unit":"px","size":5}},"elements":[],"isInner":false,"widgetType":"image-gallery","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

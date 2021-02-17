@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "057 Furniture__13",
+    "type": "page",
+    "content": [{"id":"1381fa1d","settings":{"padding_tablet":{"unit":"em","top":"0","right":"3","bottom":"0","left":"3","isLinked":false},"padding_mobile":{"unit":"em","top":"0","right":"2","bottom":"0","left":"2","isLinked":false}},"elements":[{"id":"f1272cd","settings":{"_column_size":100,"content_position":"center","padding_mobile":{"unit":"em","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7c23d334","settings":{"color":"rgba(0,0,0,0.12)","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"text":"Divider"},"elements":[],"isInner":false,"widgetType":"divider","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

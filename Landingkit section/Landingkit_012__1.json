@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "012 eCourse Sales Page__1",
+    "type": "page",
+    "content": [{"id":"64246df3","settings":[],"elements":[{"id":"45c7c85a","settings":{"_column_size":100},"elements":[{"id":"2c900065","settings":{"logo_image":{"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/logo.png","id":1854},"menus":[{"menu_label":"Testimony","menu_link":{"url":"#testi-ecourse","is_external":"","nofollow":"on"},"_id":"4d4ccbe"},{"menu_label":"Masalah","menu_link":{"url":"#masalah-ecourse","is_external":"","nofollow":""},"_id":"8606158"},{"menu_label":"Tentang CourPress","menu_link":{"url":"#tentang-ecourse","is_external":"","nofollow":""},"_id":"ead1444"},{"menu_label":"Harga","menu_link":{"url":"#harga-ecourse","is_external":"","nofollow":""},"_id":"3e34c33"},{"menu_label":"FAQ","menu_link":{"url":"#faq-ecourse","is_external":"","nofollow":""},"_id":"94559df"}],"menus_text_color":"#373748","menus_typography_typography":"custom","menus_typography_font_family":"Poppins","menus_typography_font_size":{"unit":"px","size":14},"menu_sticky_background":"#ffffff","menus_typography_text_transform":"capitalize"},"elements":[],"isInner":false,"widgetType":"lp_navigation_menu","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}

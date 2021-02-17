@@ -1,0 +1,11 @@
+{
+    "version": "0.4",
+    "title": "057 Furniture__2",
+    "type": "page",
+    "content": [{"id":"3afde067","settings":{"content_position":"middle","padding":{"unit":"em","top":"2","right":"0","bottom":"2","left":"0","isLinked":false},"background_background":"classic","background_color":"#ffffff"},"elements":[{"id":"68a7224f","settings":{"_column_size":100,"_inline_size":null,"padding_mobile":{"unit":"em","top":"0","right":"2","bottom":"0","left":"2","isLinked":false}},"elements":[{"id":"15ae98fc","settings":{"carousel":[{"id":4244,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/2.png"},{"id":4245,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/3.png"},{"id":4243,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/07\/1.png"},{"id":2936,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/GrowThack-4-1.png"},{"id":2938,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/GrowThack-2-1.png"},{"id":2937,"url":"https:\/\/raw.githubusercontent.com\/muizzahabibi\/elementor-zahira\/main\/image\/landingpress.landingkit.co\/wp-content\/uploads\/2019\/06\/GrowThack-3-1.png"}],"slides_to_show":"4","slides_to_show_tablet":"4","slides_to_show_mobile":"2","navigation":"none","autoplay_speed":2000},"elements":[],"isInner":false,"widgetType":"image-carousel","elType":"widget"},{"id":"524d01d9","settings":{"color":"rgba(0,0,0,0.09)","gap":{"unit":"px","size":2},"_margin":{"unit":"%","top":"3","right":"0","bottom":"0","left":"0","isLinked":false},"text":"Divider"},"elements":[],"isInner":false,"widgetType":"divider","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],
+    "page_settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "template": "elementor_canvas"
+    }
+}
